@@ -1,25 +1,18 @@
 ## TapXR PC updater Manual
 ### Installation
-1. Download the relevant binary from the Releases section: 
-	* [MacOS](https://github.com/TapWithUs/TapXR-updater/releases/latest/downloads/TapXR_Updater.dmg)
-	* [Windows](https://github.com/TapWithUs/TapXR-updater/releases/latest/download/tapxr_updater.exe)
-	* Linux (TBD)
-    
-2.  On MacOS
-    
-    1.  Open the DMG and drag the Tap Manager.app to the Application folder
-        
-    2.  Launch the app
-        
-    3.  In the first launch, a security warning message might appear  
-        
-    4.  Click “Show in Finder”
-        
-    5.  Right click “Tap Manager.app” and select “Open”
-        
-    6.  In the popup window, click “Open” once again
-        
-3.  On Windows - No installation needed. Just open the .exe file.
+#### MacOS
+1. Download [```TapXR_Updater.dmg```](https://github.com/TapWithUs/TapXR-updater/releases/latest/downloads/TapXR_Updater.dmg)
+2. Open the DMG and drag ```Tap Manager.app``` to the Application folder
+3. Launch the app
+4. In the first launch, a security warning message might appear
+5. Click “Show in Finder”
+6. Right click “Tap Manager.app” and select “Open”
+7. In the popup window, click “Open” once again
+#### Windows
+1. Download [```tapxr_updater.exe```](https://github.com/TapWithUs/TapXR-updater/releases/latest/download/tapxr_updater.exe)
+2. Just open it.
+#### Linux
+TBD
     
 
 ### Usage
