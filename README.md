@@ -9,7 +9,7 @@
 6. Right click “Tap Manager.app” and select “Open”
 7. In the popup window, click “Open” once again
 #### Windows
-1. Download [```tapxr_updater.exe```](https://github.com/TapWithUs/TapXR-updater/releases/latest/download/tapxr_updater.exe)
+1. Download [```tapxr_updater.exe```](https://github.com/TapWithUs/TapXR-updater/releases/latest/downloads/tapxr_updater.exe)
 2. Just open it.
 #### Linux
 TBD
