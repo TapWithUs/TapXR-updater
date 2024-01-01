@@ -1,4 +1,8 @@
-## TapXR PC updater Manual
+***
+# DEPRECATED (Jan 1st 2024)
+## Make sure you have the latest TapManager app, and retry updating.
+***
+## ~~TapXR PC updater Manual~~
 ### Installation
 #### MacOS
 1. Download [```TapXR_Updater.dmg```](https://github.com/TapWithUs/TapXR-updater/releases/latest/downloads/TapXR_Updater.dmg)
